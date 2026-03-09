@@ -1,0 +1,1 @@
+# Algorithm-for-calculating-the-number-of-different-numbers-in-an-array-that-is-a-multiple-of-three
