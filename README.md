@@ -1,1 +1,1 @@
-# Algorithm-for-calculating-the-number-of-different-numbers-in-an-array-that-is-a-multiple-of-three
+# Algorithm for finding positive numbers in an array that are divisible by 3 without a remainder.
